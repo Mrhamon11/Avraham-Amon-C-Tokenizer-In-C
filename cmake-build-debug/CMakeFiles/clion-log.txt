@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Avi/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 5 - C Tokenizer/cmake-build-debug
