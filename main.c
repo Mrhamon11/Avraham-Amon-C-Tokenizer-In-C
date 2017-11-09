@@ -39,10 +39,24 @@ _Bool hexSetContains(char c);
 _Bool punctuatorsContains(char c);
 char *trimwhitespace(char *str);
 
-int main(){
+int main(int argc, char *argv[]){
+    char* path;
 
-    fp = fopen("../CFile.c", "r");
-    if(fp != NULL) {
+    if(argc > 1){
+        path = argv[1];
+    }
+    else{
+        path = "CFile.c";
+    }
+
+    fp = fopen(path, "r");
+    if(fp == NULL) {
+        //Sometimes this doesn't work in windows, so
+        //if opening it the linux way didn't work, do ../
+        path = "../Cfile.c";
+        fp = fopen(path, "r");
+    }
+    if(fp != NULL){
         stack = stackInit();
         initKeywords();
         initPuncSet();
@@ -59,6 +73,7 @@ int main(){
 
         fclose(fp);
     }
+
     return 0;
 }
 
