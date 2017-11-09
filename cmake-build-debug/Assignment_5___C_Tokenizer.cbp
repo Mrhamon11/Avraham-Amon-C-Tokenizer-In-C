@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Avi/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 5 - C Tokenizer/Avraham Amon - C Tokenizer/DataStructs.h">
-			<Option target="Assignment_5___C_Tokenizer"/>
-		</Unit>
 		<Unit filename="C:/Users/Avi/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 5 - C Tokenizer/Avraham Amon - C Tokenizer/main.c">
 			<Option target="Assignment_5___C_Tokenizer"/>
 		</Unit>
