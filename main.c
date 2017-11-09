@@ -50,12 +50,12 @@ int main(){
 
         Token* tk = nextToken();
         while (tk->type != END) {
-            printf(tokenToString(tk));
+            printf("%s", tokenToString(tk));
             memset(token, 0, sizeof(token));
             memset(potentialKw, 0, sizeof(potentialKw));
             tk = nextToken();
         }
-        printf(tokenToString(tk));
+        printf("%s", tokenToString(tk));
 
         fclose(fp);
     }
