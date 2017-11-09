@@ -12,8 +12,6 @@ int main() {
     else
         printf("doing something else");
 
-    scanf("%d", 4);
-
     char str[] = "hello, world";
 
     struct Object{

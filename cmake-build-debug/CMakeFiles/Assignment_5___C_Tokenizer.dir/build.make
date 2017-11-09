@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer"
+CMAKE_SOURCE_DIR = "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Assignment_5___C_Tokenizer.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/Assignment_5___C_Tokenizer.dir/flags.make
 
 CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.obj: CMakeFiles/Assignment_5___C_Tokenizer.dir/flags.make
 CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Assignment_5___C_Tokenizer.dir\main.c.obj   -c "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Assignment_5___C_Tokenizer.dir\main.c.obj   -c "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\main.c"
 
 CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\main.c" > CMakeFiles\Assignment_5___C_Tokenizer.dir\main.c.i
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\main.c" > CMakeFiles\Assignment_5___C_Tokenizer.dir\main.c.i
 
 CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\main.c" -o CMakeFiles\Assignment_5___C_Tokenizer.dir\main.c.s
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\main.c" -o CMakeFiles\Assignment_5___C_Tokenizer.dir\main.c.s
 
 CMakeFiles/Assignment_5___C_Tokenizer.dir/main.c.obj.requires:
 
@@ -92,7 +92,7 @@ Assignment_5___C_Tokenizer.exe: CMakeFiles/Assignment_5___C_Tokenizer.dir/build.
 Assignment_5___C_Tokenizer.exe: CMakeFiles/Assignment_5___C_Tokenizer.dir/linklibs.rsp
 Assignment_5___C_Tokenizer.exe: CMakeFiles/Assignment_5___C_Tokenizer.dir/objects1.rsp
 Assignment_5___C_Tokenizer.exe: CMakeFiles/Assignment_5___C_Tokenizer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Assignment_5___C_Tokenizer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Assignment_5___C_Tokenizer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Assignment_5___C_Tokenizer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Assignment_5___C_Tokenizer.dir/clean:
 .PHONY : CMakeFiles/Assignment_5___C_Tokenizer.dir/clean
 
 CMakeFiles/Assignment_5___C_Tokenizer.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\cmake-build-debug" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\cmake-build-debug" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\cmake-build-debug\CMakeFiles\Assignment_5___C_Tokenizer.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\cmake-build-debug" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\cmake-build-debug" "C:\Users\Avi\OneDrive\School\YU\Classes\2017 Fall\Programming Languages\Assignments\Assignment 5 - C Tokenizer\Avraham Amon - C Tokenizer\cmake-build-debug\CMakeFiles\Assignment_5___C_Tokenizer.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Assignment_5___C_Tokenizer.dir/depend
 
